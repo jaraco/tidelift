@@ -1,0 +1,5 @@
+[project.optional-dependencies]
+docs = [
+    # tidelift
+    "jaraco.tidelift >= 1.4",
+]

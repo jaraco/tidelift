@@ -1,1 +1,1 @@
-extensions += ['jaraco.tidelift']
+extensions += ["jaraco.tidelift"]
